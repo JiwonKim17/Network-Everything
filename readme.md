@@ -1,4 +1,6 @@
-# Journal #1 : 23 Jan 2018: (Response to Linked, Chapters 1-3)
+# Network Everything
+
+Journal #1 : 23 Jan 2018: (Response to Linked, Chapters 1-3)
 
 
     Chapter 2, especially, gave me multiples of flashbacks of instances I have been exposed to graph theory. Not only it was a unit of Discrete Mathematics, I seldom randomly watch documentaries or read articles about graph theory and its applications. One of my favorites was using graph theory to increase the efficiency of kidney transplant; the inefficiency primarily rises from mismatch of willing donor's kidney and the patient's. Dr. Sommer Gentry proposed a creation of a network of other donor-patient mismatch to result in more matches. Whether it'd be called "percolation" or "community", connecting pair of nodes together and creating a network does indeed form something special. Often times, the "giant cluster" may even save lives like the kidney network. <br /><br />
