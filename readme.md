@@ -1,8 +1,11 @@
 # Network Everything
 
 Journal #2 : 1 Feb 2018 (IOTs):<br/>
-- Useful: Health patch
-- Useless: Bluesmart luggage
+- Useful: <a href="https://vitalconnect.com/"> VitalConnect </a>
+
+
+Vital Connect
+- Useless: <a href="http://www.bluesmart.com/"> Bluesmart luggage </a> 
 
 
 
