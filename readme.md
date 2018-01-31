@@ -2,7 +2,7 @@
 
 Journal #2 : 1 Feb 2018 (IOTs):<br/>
 - Useful: Health patch
-- Useless: Smartwatch
+- Useless: Bluesmart luggage
 
 
 
