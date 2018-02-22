@@ -1,4 +1,9 @@
 # Network Everything
+Journal #3: 22 Feb 2018 : <br/>
+Sometimes, things go missing, but you are unsure whether you are imagining things, or not. 
+I wanted a way to control the flow of things, which leads to the epitome of petty:a box that alerts you when someone opens it. 
+There will be a button inside the box, that would be pressed whenever the box is closed. When the box is opened, in other words, when the button is no longer pressed, arduino would send an email to the owner, which indicates the box has been opened. As we are discussing petty, adding a camera to take a photo would be fun. <br/><br/>
+
 
 Journal #2 : 1 Feb 2018 (IOTs):<br/>
 - Useful: <a href="https://vitalconnect.com/"> VitalConnect </a> <br/>
@@ -6,7 +11,7 @@ This biosensor is commonly called as "HealthPatch". As the name implies, it is a
 
 
 - Useless: <a href="http://www.bluesmart.com/"> Bluesmart luggage </a> <br/>
-It does some great things: it has a built-in GPS, powerbank, built-in scale, auto-locking and etc. I appreciate its attempts to make travelling more convenient, but I think the extra-ness of this luggage has created another expensive toy. Especially for me, travelling usually consists of air-travel. The luggage also advertises how flight experience would be so much easier with it. However, when these luggages are banned by the airlines and airports from its built-in lithium battery, are they able to carry out their functions? My answer is no. I feel like this could be one of those that do not serve its purpose and end up being the children's plaything.<br/><br/><br/><br/><br/><br/><br/>
+It does some great things: it has a built-in GPS, powerbank, built-in scale, auto-locking and etc. I appreciate its attempts to make travelling more convenient, but I think the extra-ness of this luggage has created another expensive toy. Especially for me, travelling usually consists of air-travel. The luggage also advertises how flight experience would be so much easier with it. However, when these luggages are banned by the airlines and airports from its built-in lithium battery, are they able to carry out their functions? My answer is no. I feel like this could be one of those that do not serve its purpose and end up being the children's plaything.<br/><br/><br/><br/>
 
 
 Journal #1 : 23 Jan 2018: (Response to Linked, Chapters 1-3)<br/><br/>
