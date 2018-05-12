@@ -1,15 +1,15 @@
 from pyrebase import pyrebase
 import nmap, time
-ip='192.168.18.0/24'
+ip='ip+/24'
 nm = nmap.PortScanner() 
 count={}
 status=True
 
 config = {
-  "apiKey": "AIzaSyDidWeXVeIp5ZzTkilDbKuyv68NgtcWZBM",
-  "authDomain": "networkeverything-203010.firebaseapp.com",
-  "databaseURL": "https://networkeverything-203010.firebaseio.com",
-  "storageBucket": "networkeverything-203010.appspot.com"
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "storageBucket": ""
 }
 
 firebase = pyrebase.initialize_app(config)
