@@ -18,10 +18,10 @@ sub_sound=pygame.mixer.Sound(file2)
 
 
 config = {
-  "apiKey": "AIzaSyDidWeXVeIp5ZzTkilDbKuyv68NgtcWZBM",
-  "authDomain": "networkeverything-203010.firebaseapp.com",
-  "databaseURL": "https://networkeverything-203010.firebaseio.com",
-  "storageBucket": "networkeverything-203010.appspot.com"
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "storageBucket": ""
 }
 
 firebase = pyrebase.initialize_app(config)
