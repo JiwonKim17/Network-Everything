@@ -2,7 +2,7 @@ from pyrebase import pyrebase
 import pygame
 import nmap
 import time
-ip='192.168.18.0/24'
+ip='ip+/24'
 nm = nmap.PortScanner() 
 status=True
 
