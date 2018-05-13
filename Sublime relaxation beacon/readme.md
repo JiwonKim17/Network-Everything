@@ -5,6 +5,9 @@
 
 Through this projected, we attempted to activate the atriums, by turning it as a relaxation hub with brainwave music for tired and stressed students. The sender pi would be running at the stress-induced sites such as the library and scanning the MAC address of the students at the location. Those MAC Addresses would be sent to the database, and when the receiver pi at the atrium scans a MAC Address from the database, the receiver.py would remove the existing MAC address and welcome the stressed person with a "bong". <br/>
 
+![2018-05-13 208-13 p m -1](https://user-images.githubusercontent.com/35731539/39969276-61bc4a1c-56ea-11e8-8fd3-d4b4fae91bc4.png)
+
+
 ## Process <br/>
 Using all the components below, we came up with code sender.py (running at the site) and receiver.py (running at the atrium).
 
