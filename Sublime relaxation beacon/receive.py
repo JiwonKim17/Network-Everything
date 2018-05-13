@@ -7,8 +7,8 @@ nm = nmap.PortScanner()
 status=True
 
 
-file0="music3.ogg"
-file2="en_effect.ogg"
+file0=""
+file2=""
 pygame.mixer.init(frequency=22050, size=-16, channels=2, buffer=4096)
 pygame.mixer.music.load(file0)
 pygame.mixer.music.play()
