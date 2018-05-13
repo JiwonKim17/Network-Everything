@@ -9,7 +9,7 @@ Through this projected, we attempted to activate the atriums, by turning it as a
 
 
 ## Process <br/>
-Using all the components below, we came up with code sender.py (running at the site) and receiver.py (running at the atrium).
+Using all the components below, we came up with code sender.py (at the site) and receiver.py (at the atrium).
 
 ### Networking piece:
 
